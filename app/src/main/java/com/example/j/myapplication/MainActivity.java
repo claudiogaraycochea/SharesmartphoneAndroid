@@ -1,5 +1,5 @@
 /*
-    Test Sharesmartphone framework on Android
+    Test Sharesmartphone framework on Android.
  */
 
 package com.example.j.myapplication;
