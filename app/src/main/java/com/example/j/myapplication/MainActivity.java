@@ -1,3 +1,7 @@
+/*
+    Test Sharesmartphone framework on Android
+ */
+
 package com.example.j.myapplication;
 
 import android.support.v7.app.ActionBarActivity;
